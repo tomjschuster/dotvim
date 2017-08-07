@@ -1,6 +1,6 @@
 set exrc
 set secure
-execute pathogen#infect()
+"execute pathogen#infect()
 filetype plugin on
 syntax enable
 set background=dark
